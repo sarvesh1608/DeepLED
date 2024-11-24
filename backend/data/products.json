@@ -1,0 +1,209 @@
+[{
+
+  "name": "LED Street Light",
+  "price": 245.67,
+  "description": "LED Street Light 40W powered by Philips and Osram",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/1.jpg"
+    }
+    
+  ],
+  "stock": 5,
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+ 
+  "name": "LED Flood Light ",
+  "price": 850,
+  "description": "LED Flood Loght 200W powered by Philips and Osram 4-6K surge protection",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  
+  "name": "Street Light Famas",
+  "price": 440,
+  "description": "36 W, English",
+  "ratings": 2,
+  "images": [
+    {
+      "image": "/images/products/3.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  
+  "name": " Slim Down Clock",
+  "price": 6000,
+  "description": "LED Flood Light Down Clock Premium with silver reflector.Low Voltage protection and High voltage protection.",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/4.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+ 
+  "name": "LED Panel Light",
+  "price": 450,
+  "description": "LED Panel Light Higher Lumens 2.5kV surge protection",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/5.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "name": "Lens Street Light",
+  "price": 450,
+  "description": "Lens type LED street light 40W powered by philips and osram.2 Years warranty Higher lumens.",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/3.jpg"
+    }
+  ],
+  "stock": 4,
+  "numOfReviews": 20,
+  "reviews": []
+},
+{
+  
+  "name": "LED Bulb Raw Material",
+  "price": "1000",
+  "description": "High quality LED Bulb raw material , DOB and HPF Driver",
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/products/7.jpg"
+    }
+  ],
+  "stock": 6,
+  "numOfReviews": 9,
+  "reviews": []
+},
+{
+  
+  "name": "Solar Street Light ",
+  "price": 2500,
+  "description": "Solar Street Light powered by solar energy.Output Power 7W,14W,24W.",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/8.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  
+  "name": "LED Panel Lights ",
+  "price": 400,
+  "description": "Sealing LED Panel Light of round and sqaure shapes.",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/9.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+ 
+  "name": "COB Spot Light",
+  "price": 500,
+  "description": "COB Spot Light powered by Philps.15W, 20W, 30W",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/10.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  
+  "name": "COB Spot Light Surface Cylender & Hanging Hanging Light ",
+  "price": 500,
+  "description": "COB Spot Light powered by Philps.Made up of Creep/Bridgelux. Color temperature 3000-6500K and lumens eddiciency 130. Beam Angle 30,45,60. 15W, 20W, 30W",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/11.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "High Bay Light ",
+  "price": 500,
+  "description": "High Bay Light powered by Philps.Made up of Creep/Bridgelux. 15W, 20W, 30W",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/12.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "name": "LED Track Light ",
+  "price": 500,
+  "description": "Track Light powered by Philps.Made up of Creep/Bridgelux. 15W, 20W, 30W",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/13.jpg"
+    }
+  ],
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+}]
+{
+  "name": "LED Track Light ",
+  "price": 500,
+  "description": "Track Light powered by Philps.Made up of Creep/Bridgelux. 15W, 20W, 30W",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/13.jpg"
+    },
+    "stock": 9,
+    "numOfReviews": 5,
+    "reviews": []
+  }] "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+}]
